@@ -22,8 +22,8 @@ Je termine ma formation ce mois-ci avec la réalisation d'un projet from scratch
 - **Back-end** : PHP et Symfony, Lumen, programmation orientée Objet, MySQL, MVC
 - **J'ai prévu** :
   -   d'apprendre Docker et ReactJS,
-  -   continuer à me perfectionner en PHP et aborder PHP 8,
-  -   aller plus loin avec Symfony
-- Passage du **titre professionnel** en octobre 2021.
+  -   découvrir Python puis Django,
+  -   aller plus loin avec Symfony et aborder PHP 8.
+
 
 
