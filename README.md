@@ -21,7 +21,7 @@ Je termine ma formation ce mois-ci avec la réalisation d'un projet from scratch
 - **Front-end**: HTML, CSS, Javasript, Bootstrap, API, Ajax
 - **Back-end** : PHP et Symfony, Lumen, programmation orientée Objet, MySQL, MVC
 - **J'ai prévu** :
-  -   d'apprendre Docker et ReactJS,
+  -   d'apprendre Docker et VueJS,
   -   découvrir Python puis Django,
   -   aller plus loin avec Symfony et aborder PHP 8.
 
