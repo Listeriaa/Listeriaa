@@ -28,13 +28,21 @@ Je termine ma formation ce mois-ci avec la réalisation d'un projet from scratch
 [![forthebadge](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](http://forthebadge.com)
 
 ## ⚡️ Quelques infos en plus
+### Back
+- **PHP 7** dont POO, MVC, JWT Web Token
+- **Symfony 5** dont EasyAdmin3, Voters, PHPUnit, Consommation d'API publiques avec HttpClient, twig (filtres, fonctions ...), Inky, Mailer, Services, Commandes custom, gestion des droits, Validator custom combinant plusieurs champs
+- **Lumen** : création d'API REST avec relations de tous types, communication avec un front en Javascript ou avec des vues en Lumen, utilisation de Blade
 
-- **Front-end**: HTML, CSS, Javascript, Bootstrap, API Rest, Ajax
-- **Back-end** : PHP 7 et Symfony 5, Lumen, programmation orientée Objet, EasyAdmin 3, MySQL, MVC
+### Front
+- **Javascript Vanilla** : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
+- HTML5, CSS3, dont le framework CSS Boostrap 5
+
 - **J'ai prévu** :
   -   d'apprendre Docker et VueJS ou React, mon choix n'est pas fait,
   -   découvrir Python puis Django,
   -   aller plus loin avec Symfony et aborder PHP 8.
 
-
+[![forthebadge](https://img.shields.io/badge/Vue-563D7C?style=for-the-badge&logo=vue&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/Python-5849be?style=for-the-badge&logo=python&logoColor=white)](http://forthebadge.com)
 
