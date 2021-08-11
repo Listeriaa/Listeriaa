@@ -9,11 +9,13 @@
 
 
 ### A propos de moi...  
-Actuellement dans l'apprentissage du développement web depuis février 2021 avec l'école [O'clock](https://oclock.io/), après près de 15 ans dans la biologie médicale, j'ai découvert une grande appétence pour le back-end et une véritable passion pour le code.
+Après près de 15 ans dans la biologie médicale, j'ai découvert une grande appétence pour le back-end et une véritable passion pour le code, d'abord grâce l'auto-apprentissage, puis, par le biais d'une formation avec l'école [O'clock](https://oclock.io/) qui m'a permis d'aller plus loin dans mes connaissances.
 
 En parallèle de ma formation, je me suis plongée dans des projets personnels, qui ont été très formateurs, et que vous pouvez trouver sur mon [GitHub](https://github.com/Listeriaa).
 
-Je termine ma formation ce mois-ci avec la réalisation d'un projet from scratch avec 4 autres étudiants.
+Je m'intéresse particulièrement aux bonnes pratiques de développement, et souhaite continuer à me former auprès de développeurs expérimentés et désireux de transmettre leur savoir.
+Toutes les expériences seront les bienvenues, que ce soit avec un stage, une alternance, ou un emploi salarié.
+Je continue mon apprentissage quotidiennement
 
 ## Stack 
 [![forthebadge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](http://forthebadge.com)
@@ -37,9 +39,9 @@ Je termine ma formation ce mois-ci avec la réalisation d'un projet from scratch
 - **Javascript Vanilla** : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
 - HTML5, CSS3, dont le framework CSS Boostrap 5
 
-- **J'ai prévu** :
+### J'ai prévu :
   -   d'apprendre Docker et VueJS ou React, mon choix n'est pas fait,
-  -   découvrir Python puis Django,
+  -   découvrir Python,
   -   aller plus loin avec Symfony et aborder PHP 8.
 
 [![forthebadge](https://img.shields.io/badge/Vue-563D7C?style=for-the-badge&logo=vue&logoColor=white)](http://forthebadge.com)
