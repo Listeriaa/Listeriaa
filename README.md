@@ -37,7 +37,7 @@ Je continue mon apprentissage quotidiennement
 
 ### Front
 - **Javascript** : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
-- HTML5, CSS3, dont le framework CSS Boostrap 5
+- HTML5, CSS3, Sass, dont le framework CSS Boostrap 5
 
 ### J'ai prévu :
   -   d'apprendre Docker et VueJS ou React, mon choix n'est pas fait,
