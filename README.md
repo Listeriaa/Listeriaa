@@ -36,7 +36,7 @@ Je continue mon apprentissage quotidiennement
 - **Lumen** : création d'API REST avec relations de tous types, communication avec un front en Javascript ou avec des vues en Lumen, utilisation de Blade
 
 ### Front
-- **Javascript Vanilla** : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
+- **Javascript** : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
 - HTML5, CSS3, dont le framework CSS Boostrap 5
 
 ### J'ai prévu :
