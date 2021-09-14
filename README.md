@@ -49,3 +49,5 @@ Je continue mon apprentissage quotidiennement
 [![forthebadge](https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/Python-5849be?style=for-the-badge&logo=python&logoColor=white)](http://forthebadge.com)
 
+[![Les Stats GitHub de Listeriaa](https://github-readme-stats.vercel.app/api?username=Listeriaa&count_private=true&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/Listeriaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Listeriaa&layout=compact&theme=radical)](https://github.com/Listeriaa/github-readme-stats)
