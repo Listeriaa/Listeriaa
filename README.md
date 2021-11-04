@@ -13,9 +13,11 @@ Après près de 15 ans dans la biologie médicale, j'ai découvert une grande ap
 
 En parallèle de ma formation, je me suis plongée dans des projets personnels, qui ont été très formateurs, et que vous pouvez trouver sur mon [GitHub](https://github.com/Listeriaa).
 
-Je m'intéresse particulièrement aux bonnes pratiques de développement, et souhaite continuer à me former auprès de développeurs expérimentés et désireux de transmettre leur savoir.
-Toutes les expériences seront les bienvenues, que ce soit avec un stage, une alternance, ou un emploi salarié.
-Je continue mon apprentissage quotidiennement
+Après ma formation avec O'clock, j'ai la chance d'avoir intégré [l'ENSEEIHT](https://www.enseeiht.fr/fr/index.html) où je prépare un diplôme universitaire de développeur Fullstack sur les technos javascript (NodeJS, Express, Vue3 et React) ainsi que Python-Django.
+L'enseignement sera validé lors d'un stage à partir du 28 février 2022.
+
+Je m'intéresse particulièrement aux bonnes pratiques de développement, et souhaite effectuer ce stage auprès de développeurs expérimentés et désireux de transmettre leur savoir.
+
 
 ## Stack 
 [![forthebadge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](http://forthebadge.com)
@@ -40,10 +42,7 @@ Je continue mon apprentissage quotidiennement
 - **Javascript** : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
 - HTML5, CSS3, Sass, dont le framework CSS Boostrap 5
 
-### J'ai prévu :
-  -   d'apprendre Docker et VueJS ou React, mon choix n'est pas fait,
-  -   découvrir Python,
-  -   aller plus loin avec Symfony et aborder PHP 8.
+
 
 [![forthebadge](https://img.shields.io/badge/Vue-563D7C?style=for-the-badge&logo=vue&logoColor=white)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white)](http://forthebadge.com)
